@@ -1,7 +1,7 @@
 <!-- Salah Fouda's GitHub Profile README -->
 
 <h1 align="center">Hi 👋, I'm Salah Fouda</h1>
-<h3 align="center">💡 Bioinformatics Student | 🤖 AI & Data Analyst | 🎯 Focused Learner</h3>
+<h3 align="center">💡 Bioinformatics Student | 🤖 AI & DATA SCIENCE | 🎯 Focused Learner</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&multiline=true&height=60&lines=Bioinformatics+%7C+AI+%7C+Data+Analysis+%7C+Deep+Learning+%7C+Always+Learning+More..."/>
