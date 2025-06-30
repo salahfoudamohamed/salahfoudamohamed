@@ -4,7 +4,7 @@
 <h3 align="center">💡 Bioinformatics Student | 🤖 AI & DATA SCIENCE | 🎯 Focused Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&multiline=true&height=60&lines=Bioinformatics+%7C+AI+%7C+Data+Analysis+%7C+Deep+Learning+%7C+Always+Learning+More..."/>
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&multiline=true&height=60&lines=Bioinformatics+%7C+AI+%7C+AI + DATA SCIENCE+%7C+Deep+Learning+%7C+Always+Learning+More..."/>
 </p>
 
 ---
