@@ -1,73 +1,85 @@
-<!-- README.md for salahfouda GitHub Profile -->
+<!-- Professional GitHub Profile README for Salah Fouda -->
 
-<h1 align="center">Hey there 👋, I'm Salah Fouda</h1>
-<h3 align="center">🚀 A Passionate Bioinformatics Student & AI Explorer from Egypt 🇪🇬</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Bioinformatics%20Student;AI%20&%20Data%20Science%20Lover;Kaggle%20Explorer;Always%20learning%20new%20things&center=true&width=500&height=45">
-</p>
-
----
-
-### 👨‍💻 About Me:
-- 🎓 Bioinformatics Student at Delta University
-- 🧠 Deeply interested in Artificial Intelligence, Machine Learning & Computational Neuroscience
-- 🧪 Building real-world projects: Brain Tumor Segmentation | Predictive Models | AI-Powered Tools
-- 📊 Active on [Kaggle](https://www.kaggle.com/salahfouda) — Solving problems & publishing Notebooks
-- 🗣 Content Creator (AI, Coding, Scholarships)
-- 🌱 Currently leveling up my Problem Solving & GitHub profile
-- 🎯 Goal: Build intelligent solutions that have real impact in healthcare and education
-
----
-
-### 🌐 Connect with Me:
-<p align="left">
-  <a href="https://twitter.com/salahfouda" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://www.kaggle.com/salahfouda" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-  </a>
-  <a href="mailto:salahfouda@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-### 🧰 Tech Stack & Tools:
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" />
-</p>
-
----
-
-### 📈 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salahfouda&show_icons=true&theme=radical" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salahfouda&theme=radical" width="45%" />
-</p>
+<h1 align="center">👋 Hi, I'm Salah Fouda</h1>
+<h3 align="center">🔬 Bioinformatics Student | 🤖 AI & Data Science Enthusiast | 🇪🇬 Egypt</h3>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=salahfouda&theme=rogue" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Bioinformatics+%7C+AI+%7C+Machine+Learning+%7C+Deep+Learning+%7C+Data+Science+%7C+Computer+Vision;Always+Learning+%26+Building..." />
 </p>
 
 ---
 
-### ⚡ Fun Facts:
-- I love explaining AI concepts in a simple way
-- I believe in the power of open-source & continuous learning
-- I enjoy turning complex problems into creative solutions
+### 📌 About Me
+- 🎓 Studying **Bioinformatics** at **Delta University** (Expected Graduation: 2026)
+- 💡 Passionate about **Artificial Intelligence**, **Deep Learning**, and **Computational Biology**
+- 🧠 Focused on building **AI-driven medical and bioinformatics applications**
+- 🚀 Driven by real-world problem-solving and research impact
+- 🧑‍🔬 Interested in **Genomics**, **Medical Imaging**, and **Drug Discovery** using ML
 
 ---
 
-> 🔥 "Learning never exhausts the mind."
+### 💼 Featured Projects
 
+#### 🧠 Brain Tumor Detection using Deep Learning
+- Built CNN-based model for classifying brain tumor types from MRI scans
+- Applied preprocessing and augmentation for model accuracy
+
+#### 🔬 Feature Genes Identification for Drug Efficiency Prediction
+- Developed ML pipeline to select genes correlated with drug response
+- Used Scikit-learn, feature selection, and model evaluation
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Languages & Databases**
+```
+Python, SQL, MySQL, PostgreSQL
+```
+
+**AI / ML / DL Frameworks**
+```
+TensorFlow, Keras, PyTorch, Scikit-learn, OpenCV
+```
+
+**Bioinformatics Tools**
+```
+Biopython, BLAST, FASTA
+```
+
+**Libraries & Tools**
+```
+Pandas, NumPy, SciPy, Matplotlib, Seaborn
+```
+
+**Version Control & Collaboration**
+```
+Git, GitHub
+```
+
+**IDEs / Platforms**
+```
+Jupyter Notebook, VS Code, Google Colab, Kaggle
+```
+
+---
+
+### 🌍 Find Me Online
+
+- 📬 Email: [salahfoudamohamed@gmail.com](mailto:salahfoudamohamed@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/salah-fouda]([[https://www.linkedin.com/in/salah-fouda](https://leetcode.com/u/aVDW5g1UZw/](https://www.linkedin.com/in/salah-fouda-186b02291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)))
+- 🧠 Kaggle: [kaggle.com/salahfouda](https://www.kaggle.com/salahfouda)
+- 💻 LeetCode: [leetcode.com/salahfouda]([https://leetcode.com/salahfouda](https://leetcode.com/u/aVDW5g1UZw/))
+
+---
+
+### 📈 GitHub Stats
 <p align="center">
-  Made with ❤️ by <strong>Salah Fouda</strong>
+  <img src="https://github-readme-stats.vercel.app/api?username=salahfouda&show_icons=true&theme=tokyonight" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salahfouda&theme=tokyonight" width="45%"/>
 </p>
+
+---
+
+> ⚡ “I believe in doing it once, doing it well.” — Salah Fouda
+
