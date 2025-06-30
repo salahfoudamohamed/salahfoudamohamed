@@ -82,7 +82,7 @@
 ---
 
 ### 📌 Quote
-> "I believe in doing it once, and doing it right."
+> "Data is a tool, not the answer — I build the answer."
 
 ---
 
